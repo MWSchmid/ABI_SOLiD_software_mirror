@@ -4,20 +4,20 @@ It seems like several SOLiD software tools are not available anymore. I still ha
 
 I have copies of the following SOLiD software tools:
 
-SOLiD accuracy enhancement tools 2.2 (SAET 2.2):
+SOLiD accuracy enhancement tools 2.2 [(SAET 2.2)](saet2.2.gpg?raw=true):
     
   * binary
   * user manual
   * license agreement
 
-DenovoTools (denovo2), contains:
+DenovoTools [(denovo2)](denovo2.gpg?raw=true), contains:
   
   * asid 1.0
   * MUMmer 3.22
   * utils
   * NOTE: you will need to modify assemble.pl (paths for executables)
 
-Pre- and postprocessor:
+[Pre- and postprocessors](prePostProcessor.gpg?raw=true):
 
   * denovo_preprocessor_solid_v2.2.1.pl
   * denovo_postprocessor_solid_v1.6.pl
