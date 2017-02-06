@@ -17,7 +17,7 @@ DenovoTools [(denovo2)](denovo2.gpg?raw=true), contains:
   * utils
   * NOTE: you will need to modify assemble.pl (paths for executables)
 
-[Pre- and postprocessors](prePostProcessor.gpg?raw=true):
+[Pre- and postprocessors](prePostProcessors.gpg?raw=true):
 
   * denovo_preprocessor_solid_v2.2.1.pl
   * denovo_postprocessor_solid_v1.6.pl
